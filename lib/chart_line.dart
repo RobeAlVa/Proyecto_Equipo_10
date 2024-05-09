@@ -1,3 +1,5 @@
+// Código creado por Cecilia Beatriz Salazar Torres.
+
 import 'dart:async';
 import 'dart:math' as math;
 import 'package:flutter/foundation.dart';
