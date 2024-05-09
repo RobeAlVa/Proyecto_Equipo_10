@@ -1,3 +1,7 @@
+// Código modificado por Rolando Joel Vázquez Rodríguez.
+
+// Modificación del código "model.dart". 
+
 /// Dart import
 import 'dart:convert';
 import 'dart:io' show Platform;
