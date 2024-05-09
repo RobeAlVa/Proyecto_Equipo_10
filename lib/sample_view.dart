@@ -1,3 +1,5 @@
+// Apartado modificado por Rogelio Emmanuel Lugo Sánchez.
+
 import 'package:flutter/material.dart';
 // import 'package:flutter_localization/flutter_localization.dart';
 import 'package:syncfusion_localizations/syncfusion_localizations.dart';
