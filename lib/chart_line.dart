@@ -1,9 +1,6 @@
-// Código creado por Cecilia Beatriz Salazar Torres.
+// El siguiente código fue hecho por Cecilia Beatriz Salazar Torres.
 
-
-// Chart_line.dart
-
-import 'dart:async';
+import 'dart:async'
 import 'dart:math' as math;
 import 'package:flutter/foundation.dart';
 
